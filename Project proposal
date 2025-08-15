@@ -1,0 +1,110 @@
+Title: Weekly Organizer for Students
+
+Project Description
+
+Schedify is a simple yet effective weekly organizer designed for students to manage schoolwork and activities more efficiently.  It allows users to add tasks, set deadlines, view their weekly schedule, and mark completed tasks, helping students stay on track with their academic and personal responsibilities.
+
+Features
+
+- Add academic tasks with descriptions, deadlines, and categories (e.g., ILAs, lab reports, research proposals, problem sets).
+
+- Add extra-curricular activities or events (e.g., club meetings, competitions, outreach programs).
+
+- View all tasks for the week in a clear, organized list.
+
+- Mark tasks as "Done" or "Pending" to track progress.
+
+- Sort tasks by deadline to prioritize urgent work.
+
+- Optional color-coded categories for Academic vs. Non-Academic tasks.
+
+- Update task details or remove tasks if plans change.
+
+- Display a short motivational line whenever you mark a task as “Done!” (e.g., “Nice! You can do this!”)
+
+- Task countdown showing how many days are left until the deadline.
+
+- Data auto saves so tasks remain even if you close the program.
+
+How to Run the Program
+
+Ensure that you have Python installed. 
+
+Download the file schedify.py.
+
+Open your terminal or command prompt.
+
+Execute the program by pressing F5 or selecting ‘Run’.
+
+Follow the on-screen instructions to add and manage your tasks.
+
+
+
+## Example Output
+
+Welcome to Schedify!
+
+1. Add Task
+
+2. View Tasks
+
+3. Mark Task as Done
+
+4. Exit
+
+
+
+Enter your choice: 1  
+
+Enter task description: Finish Physics Lab Report  
+
+Enter deadline (MM-DD-YYYY): 08-15-2025  
+
+Category (Academic/Non-Academic): Academic  
+
+Task added successfully!
+
+
+
+Enter your choice: 1  
+
+Enter task description: Robotics Club Meeting  
+
+Enter deadline (MM-DD-YYYY): 08-18-2025  
+
+Category (Academic/Non-Academic): Non-Academic  
+
+Task added successfully!
+
+
+
+Enter your choice: 2  
+
+--- Weekly Tasks ---  
+
+[1] Finish Physics Lab Report - 08-15-2025 - Academic - Pending  
+
+[2] Robotics Club Meeting - 08-18-2025 - Non-Academic - Pending
+
+
+
+
+
+Enter your choice: 3
+
+Enter task number to mark as done: 2
+
+Nice! You can do this! 🎉
+
+Task marked as done.
+
+
+
+Enter your choice: 4
+
+Saving your tasks…
+
+All set!
+
+Thank you for using Schedify. Keep chasing those goals, you've got this! ⭐
+
